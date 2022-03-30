@@ -1,7 +1,7 @@
 #Importar el módulo Flask en el proyecto.
 from flask import Flask
 
-#Crear un objeto.
+#Crear un objeto de la clase Flask.
 app = Flask(__name__)
 
 #La función route() de la clase Flask.
